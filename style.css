@@ -1,7 +1,6 @@
 body{
     font-family: 'Bitter', serif;
-
-     
+    margin: 0px;     
 }
 
 #One{
@@ -24,4 +23,14 @@ h1{
 
 .Half-Width img{
     width: 100%;
+}
+
+.Top-Banner{
+   background-image: url("images/01/top-banner.png");
+   background-repeat: no-repeat;
+
+}
+
+section{
+    height: 500px;
 }
