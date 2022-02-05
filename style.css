@@ -1,8 +1,12 @@
 body{
     font-family: 'Bitter', serif;
+
      
 }
 
+#One{
+    text-align: justify;
+}
 h1{
     font-size: 50px;
 }
