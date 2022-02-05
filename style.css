@@ -1,0 +1,23 @@
+body{
+    font-family: 'Bitter', serif;
+     
+}
+
+h1{
+    font-size: 50px;
+}
+
+.highlight{
+    color: orange;
+}
+
+.Half-Width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.Half-Width img{
+    width: 100%;
+}
